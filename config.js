@@ -7,7 +7,7 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT 
 global.appUrl=process.env.APP_URL || ""     // put your deploy app/bot url here, for 24/7 for (render , koyeb, glitch)
-global.email ="saimsamsun789@gmail.com"
+global.email ="salwajen1212@gmail.com"
 global.location="Lahore,Pakistan."
 
 
@@ -141,4 +141,5 @@ fs.watchFile(file, () => { fs.unwatchFile(file);console.log(`Update'${__filename
   //save_status: process.env.AUTO_SAVE_STATUS || "false",
   //aitts_Voice_Id : process.env.AITTS_ID || "37",
   //ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY  || "",
+
 
